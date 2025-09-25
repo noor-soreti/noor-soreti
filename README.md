@@ -27,6 +27,7 @@
 - ⚡ Currently learning DevOps practices, with a focus on CI/CD pipelines, containerization and cloud infrastructure management
 - 🔭 I’ve recently finished writing an post on [Dockerizing and Deploying Camelot-Py onto Google Cloud Run](https://medium.com/@soreti/building-a-simple-websocket-server-in-java-61b3e96dbef2)
 - 🌱 In my free time, I enjoy knitting 🧶, pumping iron 🏋🏽‍♀️ and learning new technologies 🖥️
+- 📚 In the pursuit of my CCNA certification
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
